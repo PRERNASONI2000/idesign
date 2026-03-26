@@ -7,7 +7,7 @@ import "./css/style.css";
 
 const App = () => {
   return (
-    <BrowserRouter basename="/idesign">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Hero />}></Route>
       </Routes>
