@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
     return (
        <footer>
-        <img src="./assets/img/logo.png" alt="logo" className="img-fluid mx-auto block mt-[3rem] mb-[4rem]" />
+        <img src="/assets/img/logo.png" alt="logo" className="img-fluid mx-auto block mt-[3rem] mb-[4rem]" />
       {/* <section className="relative w-full h-[80vh] overflow-hidden">
   <iframe
     className="absolute top-0 left-0 w-full h-full"

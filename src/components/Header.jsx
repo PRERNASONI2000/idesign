@@ -106,7 +106,7 @@ export default function Header() {
               </nav>
             </div>
             <div className="flex justify-center items-center flex-col h-full px-4">
-              <h1 className="uppercase font-bold text-[42px] sm:text-[42px] md:text-[50px] lg:text-[64px] leading-[1.2] text-center mt-0 mb-5 md:mb-10 text-[#E9CBB7] [text-shadow:0_4px_10px_rgba(0,0,0,0.9)]">
+              <h1 className="uppercase font-bold text-[42px] sm:text-[42px] md:text-[50px] lg:text-[64px] leading-[1.2] text-center mt-0 mb-5 md:mb-10 text-[#E9CBB7] [text-shadow:0_4px_20px_rgba(0,0,0,0.9)]">
                 idesign gives your dream home
               </h1>
 
